@@ -10,7 +10,7 @@
 			       Added .widget4m to display the profile support dialog, created them, added .widget4 to desktop for support dialog boxes, 
                                added splashtitle for title on desktop at start and created dancingshana's own searchUI logo.
 			       .searchcontainer2 under @media screen and (min-width:1245px) {  now has backdrop-filter:blur(5px); 
-			       changed the search items inside the minibox margin-top: from 67px to 20px after removing the icons
+			       changed the margin-top property for the minibox under 1245 from 67px to 20px after removing the icons
                                //for youtube effects toggle blur on main or rewrite the code so that posts are above the effect//  
         -->            
  
