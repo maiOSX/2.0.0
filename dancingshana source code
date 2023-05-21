@@ -6478,7 +6478,8 @@ margin-right:5px;
         margin-top: 0px;
         width:100%;  
         background-size:cover !important;
-           
+            backdrop-filter:blur(5px);
+           -webkit-backdrop-filter:blur(5px);
         background:url('{image:SearchWallpaper}'); 
       /*   {block:IfTurnOnBlurMobile}  background-size:cover;
                 backdrop-filter:blur(5px);
