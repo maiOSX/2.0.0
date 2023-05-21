@@ -1,6 +1,6 @@
 <html>
     <head> 
-        <!--            
+           <!--            
             
                                Mai OS X designed for creator/dancingshana                  
                                Things that were removed from the original file
@@ -6913,7 +6913,7 @@ margin-right:5px;
     position: relative;z-index:99; 
     padding-bottom: 10px; -webkit-backdrop-filter: blur(0px);
     padding-top: 10px; letter-spacing:0.0px;
-    margin-top:67px; backdrop-filter: blur(0px);
+    margin-top:20px; backdrop-filter: blur(0px);
     display: inline-block; 
    
 }
@@ -6926,7 +6926,7 @@ margin-right:5px;
     position: relative; transform:scale(1.0);
     padding-bottom: 10px; -webkit-backdrop-filter: blur(0px);
     padding-top: 10px;
-    margin-top:67px; backdrop-filter: blur(0px);
+    margin-top:20px; backdrop-filter: blur(0px);
     display: inline-block;
    
 }
@@ -12008,7 +12008,7 @@ Request a song to dance to with
 <a href="https://apps.apple.com/us/app-bundle/fizzy-water-bundle/id1601247237" style="color:white;">The Fizzy Water Bundle</a> ︱
 <a href="https://chrome.google.com/webstore/detail/new-address-bar/pjpbjboafkcbfpgiodfpfbehkjobdppe" style="color:white;">New Addressbar</a> ︱
 <a href="https://chrome.google.com/webstore/detail/leftside-back/gdcddfacdedphcamippdkojfngoakglg" style="color:white;">Leftside Back Button</a> ︱
-<a href="https://maiosx.com/" style="color:white;">UI Design by maiOSX</a>
+<a href="https://github.com/maiOSX/2.0.0/blob/main/dancingshana%20source%20code" style="color:white;">maiOSX for Creator/Dancingshana</a>
 </div>
 
     </div>
